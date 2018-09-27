@@ -1,3 +1,5 @@
+My partner is Nathan Wang
+
 Monster Sudoku (or Mega Sudoku) is a puzzle that follows the rules of Sudoku and is played on a NxN grid, but allows N to be any positive integer including N > 9.  The numbers that fill each square are selected from the first N positive integers.  (For display purposes they often are shown as 1, 2, ..., 9, A, B, ..., Z; so that each token takes up exactly one column when printed.)  Monster Sudoku puzzles are described by four parameters:
 	•	N = the length of one side of the NxN grid, also the number of distinct tokens
 	•	P = the number of rows in each block, also the number of block columns.
